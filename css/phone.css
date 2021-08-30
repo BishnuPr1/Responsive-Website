@@ -1,0 +1,9 @@
+/*Navigation Section*/
+#navbar {
+    flex-direction: column;
+}
+/*Home Section*/
+#home{
+    height:280px;
+}
+/*Services Section*/
